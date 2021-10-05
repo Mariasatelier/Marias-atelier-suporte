@@ -166,7 +166,7 @@ button:hover{
   cursor: pointer;
   outline: none; 
   position: absolute;
-  top: 760px;
+  top: 500px;
   left: 0px;
 }
 .instagram1:hover{
@@ -202,6 +202,6 @@ h1{
 p {
   text-align: center;
   margin-top: 10px;
-  font-size: 36px;
+  font-size: 30px;
   font-family: Agency FB;
 }
